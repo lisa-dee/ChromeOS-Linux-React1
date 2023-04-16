@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+https://app.pluralsight.com/guides/how-to-set-up-graphql-in-a-react-app
 ## Available Scripts
 
 In the project directory, you can run:
